@@ -13,3 +13,8 @@ The project occurs as follows:
 - Create a pie chart comparing the number of operating roller coasters ('status.operating') to the number of closed roller coasters ('status.closed.definitely').  Input should be rollercoaster DataFrame.  Saved as 'pie_chart_operating_status.png'.
 - Create a scatter plot of two numeric columns of the roller coaster Data Frame.  Inputs should be roller coaster Data Frame and two-column names as inputs.  Saved as 'scatter_plot_two_cols.png'.
 - An extra question considered is what roller coaster seating type is most popular?  This is plotted as bar graph and saved as 'bar_chart_most_popular_seating_type.png'.
+
+Some extra questions to be considered and the way to visualise are:
+- Do different seating types result in higher/faster/longer roller coasters?
+- Do roller coaster manufacturers have any specialties (do they focus on speed, height, seating type, or inversions)?
+- Do amusement parks have any specialties?
