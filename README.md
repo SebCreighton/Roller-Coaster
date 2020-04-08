@@ -1,6 +1,6 @@
 # Roller Coaster
 
-For this project, data visualisation covering international roller coaster rankings and roller coaster statistics will be covered.
+For this CodeAcademy project, data visualisation covering international roller coaster rankings and roller coaster statistics will be covered.
 
 The project occurs as follows:
 - Roller coasters are often split into two main categories based on their construction material: wood or steel. Rankings for the best wood and steel roller coasters from the 2013 to 2018 Golden Ticket Awards are provided in 'Golden_Ticket_Award_Winners_Wood.csv' and 'Golden_Ticket_Award_Winners_Steel.csv', respectively.  Each dataframe is loaded so can gain familarity.
